@@ -23,5 +23,5 @@ This dataset is licensed under the public domain license available at http://www
 
 Using Jupyter notebooks and the Anaconda library manager, I completed the analysis with Python and relevant libraries such as pandas, NumPy, os, matplotlib, scipy, sklearn, pylab, and statsmodels.api. The detailed notebooks are available [here](https://github.com/MarynaBotas/Railway-accidents/tree/main/Scripts)
 
-Visualizations and the final dashboard were created using [Tableau Public]([https://public.tableau.com/shared/BRN8GF6QD?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/RailwayaccidentsintheUSA1975to2022/RailwayaccidentsintheUSA1975to2022?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Visualizations and the final dashboard were created using [Tableau Public](https://public.tableau.com/views/RailwayaccidentsintheUSA1975to2022/RailwayaccidentsintheUSA1975to2022?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
